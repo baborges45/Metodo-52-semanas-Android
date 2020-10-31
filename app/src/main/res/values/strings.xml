@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Metodo 52 semanas</string>
+
+    <!-- main-->
+    <string name="main_no_target_label">Nenhum objetivo cadastrado até o momento,
+        que tal iniciarmos um <b>agora mesmo?</b></string>
+    <!--main-->
 </resources>
