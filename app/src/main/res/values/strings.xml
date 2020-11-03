@@ -5,4 +5,17 @@
     <string name="main_no_target_label">Nenhum objetivo cadastrado até o momento,
         que tal iniciarmos um <b>agora mesmo?</b></string>
     <!--main-->
+
+    <!--    new target-->
+    <string name="new_target_title">Novo Objetivo</string>
+    <string name="new_target_target_name_label">Qual o nome do seu objetivo?</string>
+    <string name="new_target_target_start_value_label">Qual valor iremos começar?</string>
+    <string name="new_target_target_start_date_label">Começar em?</string>
+    <!--    new target-->
+
+    <!--    target button-->
+    <string name="target_button">Começar Agora</string>
+    <!--    target button-->
+
 </resources>
+
